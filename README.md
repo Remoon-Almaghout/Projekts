@@ -1,4 +1,4 @@
-<h1 align="center">MERN Crash Projckt 🚀</h1>
+<h1 align="center">Store Projckt 🚀</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
